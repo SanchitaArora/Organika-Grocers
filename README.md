@@ -13,14 +13,11 @@ This project represents a fully functional online grocery store, aiming to repli
 # Technologies Used
 1. Frontend:
 (i) HTML – Structure and content of the web pages.
-
 (ii) CSS – Styling and responsive design.
-
 (iii) JavaScript – Interactive features such as add-to-cart, login validations, and dynamic content rendering.
 
-2. Backend:
+3. Backend:
 (i) PHP – Server-side logic, form handling, and session management.
-
 (ii) SQL – Database integration for storing product data, user info, and cart sessions.
 
 # Key Features
